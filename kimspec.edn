@@ -67,5 +67,4 @@
             "Pt"
             "S"
             "Si"] 
- "atom-type-labels" "ay1 ay2 sy1 sy2 oy7 oy8 oy1 oy2 oy3 oy9 oy5 oy4 oy6 hoy hok oc24 k+ oap1 pap na+ hop oc11 s_m oc15 o* ca+t sc2 sc3 oc12 oc13 h* oc14 ac3 ca+m oc21 oc18 oc16 oc20 ca+g oc19 oc17 s' oc22 ca+h ac2 ca+e oc10 oc7 hoc oc9 oc6 sc4 oc8 oc5 oap2 ca++ sc1 oc2 oc1 oc23 ce1 oe1 he1 ac1 oc3 oc4 ca+a Al Ag Pd Pt Au Ni Cu Pb"
  "title" "LAMMPS PCFF bonded force-field combined with IFF non-bonded 9-6 Lennard-Jones potentials for metal interactions v000"}
