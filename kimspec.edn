@@ -7,7 +7,7 @@
  "kim-api-version" "2.1"
  "maintainer-id" "fa1c5480-8f03-4349-95c1-96c205a7a333"
  "run-compatibility" "special-purpose-models" 
- "simulator-potential" "pcff/iff"
+ "simulator-potential" "class2"
  "potential-type" "pcff"
  "simulator-name" "LAMMPS"
  "source-citations" [{"author" "Hill, Joerg-R. and Sauer, Joachim"
