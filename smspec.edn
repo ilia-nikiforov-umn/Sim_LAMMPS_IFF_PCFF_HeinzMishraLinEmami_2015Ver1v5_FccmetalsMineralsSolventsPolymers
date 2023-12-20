@@ -17,6 +17,6 @@
                  "pair_modify mix sixthpower"
                  "include @<parameter-file-1>@"
               ]
-  "supported-species" "Ag Al Au Br Cl Cr Cu Fe K Li Mo Na Ni Pb Pd Pt Sn W ar az br c c+ c- c1 c2 c3 c3h c3m c4h c4m c5 c= c=1 c=2 c_0 c_1 c_2 c_a ca+ cg ci cl co coh cp cr cs ct cz dw f h h* h+ hb hc he hi hn hn2 ho ho2 hoa hos hp hs hsi hw i kr n n+ n1 n2 n3m n3n n4 n4m n4n n= n=1 n=2 n_2 na nb ne nh nh+ nho ni nn np npc nr nt nz o o* o- o3e o4e o= o_1 o_2 oah oas ob oc oe oh oo op osh osi oss oz p p= s s' s- s1 s3e s4e sc sf sh si sio sp sz xe k+ na+ sy1 sy2 ayt1 ayt2 ay1 ay2 oy1 oy2 oy3 oy4 oy5 oy6 oy7 oy8 oy9 hoy hok sc1 sc2 sc3 sc4 ac1 ac2 ac3 ca++ ca+a ca+e ca+t ca+m ca+g ca+h oc1 oc2 oc3 oc4 oc5 oc6 oc7 oc8 oc9 oc10 oc11 oc12 oc13 oc14 oc15 oc16 oc17 oc18 oc19 oc20 oc21 oc22 oc23 oc24 oc25 hoc s_m pap oap1 oap2 hop h1o o2* o2h o2e c4 c4o h1 ht5 ot5 et5 ha1 oa1 ce1 he1 oe1 oet5 oat5"
+  "supported-species" "ay1 ay2 sy1 sy2 oy7 oy8 oy1 oy2 oy3 oy9 oy5 oy4 oy6 hoy hok oc24 k+ oap1 pap na+ hop oc11 s_m oc15 o* ca+t sc2 sc3 oc12 oc13 h* oc14 ac3 ca+m oc21 oc18 oc16 oc20 ca+g oc19 oc17 s' oc22 ca+h ac2 ca+e oc10 oc7 hoc oc9 oc6 sc4 oc8 oc5 oap2 ca++ sc1 oc2 oc1 oc23 ce1 oe1 he1 ac1 oc3 oc4 ca+a Al Ag Pd Pt Au Ni Cu Pb"
   "units" "real"
 }
